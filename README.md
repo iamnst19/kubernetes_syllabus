@@ -10,7 +10,7 @@
 ## [Getting Started](https://kubernetes.io/docs/setup/)
 
 * Release notes and version skew
-	* [v1.16 Release Notes](https://kubernetes.io/docs/setup/release/notes/)
+	* [v1.23 Release Notes](https://kubernetes.io/docs/setup/release/notes/)
 	* [Kubernetes version and version skew support policy](https://kubernetes.io/docs/setup/release/version-skew-policy/)
 * Learning environment
 	* [Installing Kubernetes with Minikube](https://kubernetes.io/docs/setup/learning-environment/minikube/)
