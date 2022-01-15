@@ -14,38 +14,6 @@
 	* [Kubernetes version and version skew support policy](https://kubernetes.io/docs/setup/release/version-skew-policy/)
 * Learning environment
 	* [Installing Kubernetes with Minikube](https://kubernetes.io/docs/setup/learning-environment/minikube/)
-* Production environment
-	* [Container runtimes](https://kubernetes.io/docs/setup/production-environment/container-runtimes/)
-	* Installing Kubernetes with deployment tools
-		* Bootstrapping clusters with kubeadm
-			* [Installing kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/)
-			* [Troubleshooting kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/troubleshooting-kubeadm/)
-			* [Creating a single control-plane cluster with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/)
-			* [Customizing control plane configuration with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/control-plane-flags/)
-			* [Options for Highly Available topology](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/ha-topology/)
-			* [Creating Highly Available clusters with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/high-availability/)
-			* [Set up a High Availability etcd cluster with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/setup-ha-etcd-with-kubeadm/)
-			* [Configuring each kubelet in your cluster using kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/kubelet-integration/)
-			* [Configuring your kubernetes cluster to self-host the control plane](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/self-hosting/)
-		* [Installing Kubernetes with kops](https://kubernetes.io/docs/setup/production-environment/tools/kops/)
-		* [Installing Kubernetes with KRIB](https://kubernetes.io/docs/setup/production-environment/tools/krib/)
-		* [Installing Kubernetes with Kubespray](https://kubernetes.io/docs/setup/production-environment/tools/kubespray/)
-	* Turnkey Cloud Solutions
-		* [Running Kubernetes on Alibaba Cloud](https://kubernetes.io/docs/setup/production-environment/turnkey/alibaba-cloud/)
-		* [Running Kubernetes on AWS EC2](https://kubernetes.io/docs/setup/production-environment/turnkey/aws/)
-		* [Running Kubernetes on Azure](https://kubernetes.io/docs/setup/production-environment/turnkey/azure/)
-		* [Running Kubernetes on CenturyLink Cloud](https://kubernetes.io/docs/setup/production-environment/turnkey/clc/)
-		* [Running Kubernetes on Google Compute Engine](https://kubernetes.io/docs/setup/production-environment/turnkey/gce/)
-		* [Running Kubernetes on Multiple Clouds with IBM Cloud Private](https://kubernetes.io/docs/setup/production-environment/turnkey/icp/)
-		* [Running Kubernetes on Tencent Kubernetes Engine](https://kubernetes.io/docs/setup/production-environment/turnkey/tencent/)
-	* On-Premises VMs
-		* [Cloudstack](https://kubernetes.io/docs/setup/production-environment/on-premises-vm/cloudstack/)
-		* [Kubernetes on DC/OS](https://kubernetes.io/docs/setup/production-environment/on-premises-vm/dcos/)
-		* [oVirt](https://kubernetes.io/docs/setup/production-environment/on-premises-vm/ovirt/)
-	* Windows in Kubernetes
-		* [Intro to Windows support in Kubernetes](https://kubernetes.io/docs/setup/production-environment/windows/intro-windows-in-kubernetes/)
-		* [Guide for adding Windows Nodes in Kubernetes](https://kubernetes.io/docs/setup/production-environment/windows/user-guide-windows-nodes/)
-		* [Guide for scheduling Windows containers in Kubernetes](https://kubernetes.io/docs/setup/production-environment/windows/user-guide-windows-containers/)
 * Best practices
 	* [Running in multiple zones](https://kubernetes.io/docs/setup/best-practices/multiple-zones/)
 	* [Building large clusters](https://kubernetes.io/docs/setup/best-practices/cluster-large/)
@@ -160,7 +128,7 @@
 	* [Service Catalog](https://kubernetes.io/docs/concepts/extend-kubernetes/service-catalog/)
 	* [Poseidon-Firmament - An alternate scheduler](https://kubernetes.io/docs/concepts/extend-kubernetes/poseidon-firmament-alternate-scheduler/)
 
-## [Tutorials](https://kubernetes.io/docs/tutorials/)
+
 
 * [Hello Minikube](https://kubernetes.io/docs/tutorials/hello-minikube/)
 * Learn Kubernetes Basics
@@ -183,8 +151,6 @@
 	* Update Your App
 		* [Performing a Rolling Update](https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/)
 		* [Interactive Tutorial - Updating Your App](https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-interactive/)
-* Online Training Courses
-	* [Overview of Kubernetes Online Training](https://kubernetes.io/docs/tutorials/online-training/overview/)
 * Configuration
 	* [Configuring Redis using a ConfigMap](https://kubernetes.io/docs/tutorials/configuration/configure-redis-using-configmap/)
 * Stateless Applications
@@ -405,7 +371,7 @@
 	* [Using Node Authorization](https://kubernetes.io/docs/reference/access-authn-authz/node/)
 	* [Webhook Mode](https://kubernetes.io/docs/reference/access-authn-authz/webhook/)
 * API Reference
-	* [v1.16](https://kubernetes.io/docs/reference/kubernetes-api/api-index/)
+	* [v1.23](https://kubernetes.io/docs/reference/kubernetes-api/api-index/)
 	* [Well-Known Labels, Annotations and Taints](https://kubernetes.io/docs/reference/kubernetes-api/labels-annotations-taints/)
 * Setup tools reference
 	* Kubeadm
